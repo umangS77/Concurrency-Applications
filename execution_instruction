@@ -1,0 +1,11 @@
+For Q1:
+	gcc Q1.c -lpthread
+	./a.out
+
+For Q2:
+	gcc Q2.c -lpthread
+	./a.out
+
+For Q3:
+	gcc Q3.c -lpthread
+	./a.out
